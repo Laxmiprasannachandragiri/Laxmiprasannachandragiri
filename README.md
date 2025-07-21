@@ -19,7 +19,6 @@
 📫 How to reach me:
 - 📧 Email: **prasannachandragiri@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/laxmi-prasanna](https://linkedin.com/in/laxmi-prasanna)
-- 🌐 Portfolio: (Coming Soon)
 
 ⚡ Fun Fact:
 > I blend design, code, and creativity to solve real-world problems — from farms to faces!
@@ -51,6 +50,8 @@ A frontend-only clone of Amazon built with HTML, CSS, and JavaScript. Focuses on
 
 ✊ [**Rock Paper Scissors Game**](https://github.com/Laxmiprasannachandragiri/rock-paper-scissors)  
 A fun interactive browser game using JavaScript and DOM manipulation with animations and score tracking.
+
+
 ---
 
 ## 📊 GitHub Stats
