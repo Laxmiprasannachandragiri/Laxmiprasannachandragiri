@@ -70,7 +70,6 @@ I enjoy turning real-world problems into working software and continuously impro
 
 ### AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 
@@ -100,6 +99,9 @@ KrishiAI helps farmers make better decisions through:
 
 **Tech:** Python • Flask • Scikit-learn • TensorFlow • HTML • CSS • JavaScript
 
+🔗 **[GitHub Repository](https://github.com/Laxmiprasannachandragiri/KrishiAI)**
+🚀 **[Live Demo](https://krishiai-nens.onrender.com)**
+
 ---
 
 ### 🧘 PRANAWELL
@@ -118,16 +120,21 @@ A wellness-focused application designed to provide AI-assisted skin analysis and
 
 ---
 
-### 🛍️ [Amazon Clone](https://github.com/Laxmiprasannachandragiri/amazon-clone)
+### 🛒 [Amazon Clone](https://github.com/Laxmiprasannachandragiri/amazon-clone)
 
 A responsive frontend clone inspired by Amazon, built to practice:
 
 * HTML & CSS
+* JavaScript
+* Responsive layouts
 * UI development
+
+🔗 **[GitHub Repository](https://github.com/Laxmiprasannachandragiri/amazon-clone)**
+🚀 **[Live Demo](https://amazon-clone-one-rust.vercel.app)**
 
 ---
 
-### ✊ [Rock Paper Scissors](https://github.com/Laxmiprasannachandragiri/rock-paper-scissors)
+### 🎮 [Rock Paper Scissors](https://github.com/Laxmiprasannachandragiri/rock-paper-scissors)
 
 An interactive browser-based game built with JavaScript featuring:
 
@@ -135,6 +142,9 @@ An interactive browser-based game built with JavaScript featuring:
 * 📊 Score tracking
 * ⚡ DOM manipulation
 * ✨ Simple animations
+
+🔗 **[GitHub Repository](https://github.com/Laxmiprasannachandragiri/rock-paper-scissors)**
+🚀 **[Live Demo](https://rock-paper-scissors-game-90ywkl8kh-prasanna-12fa.vercel.app)**
 
 ---
 
@@ -156,7 +166,7 @@ Worked on AI and Azure-based concepts with **KrishiAI** as a project.
 
 **Emertxe Information Technologies**
 
-Worked on MERN stack development project as part of an internship project.
+Worked on MERN stack development as part of an internship project.
 
 ---
 
